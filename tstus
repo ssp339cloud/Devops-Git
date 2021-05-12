@@ -1,0 +1,48 @@
+[33mcommit 2c1745c068a468b746761f28763b23467acff3a1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: prasad <ssp339.cloud@gmail.com>
+Date:   Tue May 11 23:02:19 2021 +0000
+
+    Adding 4 reset codes
+
+[33mcommit de455c758ba4361a5e2ade92f2823afef6f384a4[m
+Author: prasad <ssp339.cloud@gmail.com>
+Date:   Tue May 11 22:40:30 2021 +0000
+
+    adding reset
+
+[33mcommit 4085b936ac293872aa5f0d137581df73d89dcdfd[m[33m ([m[1;33mtag: v1.5[m[33m, [m[1;33mtag: v1.1[m[33m, [m[1;33mtag: v1.0[m[33m, [m[1;31morigin/master5.0[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: prasad <ssp339.cloud@gmail.com>
+Date:   Sun May 9 00:30:11 2021 +0000
+
+    added gui code
+
+[33mcommit 638673e0b5e2edb9c1a432dd4c01dd713e541256[m
+Author: prasad <ssp339.cloud@gmail.com>
+Date:   Sun May 9 00:27:29 2021 +0000
+
+    file added with code for version2.0 release
+
+[33mcommit 20194be26b6b8976ac862ab18f59d9be56500b9a[m
+Merge: 284bc45 a0c6b86
+Author: prasad <ssp339.cloud@gmail.com>
+Date:   Fri May 7 23:53:55 2021 +0000
+
+    resolved merge conflicts
+
+[33mcommit 284bc45941109235590dd6f4164f80f9e5615e8b[m
+Author: prasad <ssp339.cloud@gmail.com>
+Date:   Fri May 7 23:49:24 2021 +0000
+
+    new line added by prasad
+
+[33mcommit a0c6b866a9e11ea128efabee499f2ec4c83ef255[m
+Author: rock <ssp339.cloud@gmail.com>
+Date:   Fri May 7 23:46:06 2021 +0000
+
+    user rock added new line to code
+
+[33mcommit 8fa45422375660b79c223fbccec1188815f01f78[m
+Author: prasad <ssp339.cloud@gmail.com>
+Date:   Thu May 6 21:18:51 2021 +0000
+
+    first project
